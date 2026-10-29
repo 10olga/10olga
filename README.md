@@ -24,7 +24,7 @@ A high school student based in Sweden specializing in **Computers & Information 
 
 ## 📌 Featured Projects
 
-Currently no featured projects that i want to show. 
+_Currently no featured projects that i want to show._ 
 
 ---
 
