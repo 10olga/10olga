@@ -28,11 +28,11 @@ Currently no featured projects that i want to show.
 
 ---
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10olga&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10olga&layout=compact&theme=dark)
-
+-->
 
 <!-- ## 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
